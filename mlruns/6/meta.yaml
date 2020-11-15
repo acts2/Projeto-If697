@@ -1,0 +1,4 @@
+artifact_location: file:///home/carolina/Documents/Projeto-If697/mlruns/6
+experiment_id: '6'
+lifecycle_stage: active
+name: Prediction using stochastic gradient descent

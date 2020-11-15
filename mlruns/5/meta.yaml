@@ -1,0 +1,4 @@
+artifact_location: file:///home/carolina/Documents/Projeto-If697/mlruns/5
+experiment_id: '5'
+lifecycle_stage: active
+name: Prediction using multilayer perceptron

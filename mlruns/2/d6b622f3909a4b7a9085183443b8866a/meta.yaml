@@ -1,0 +1,15 @@
+artifact_uri: file:///home/carolina/Documents/Projeto-If697/mlruns/2/d6b622f3909a4b7a9085183443b8866a/artifacts
+end_time: 1605398713280
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: d6b622f3909a4b7a9085183443b8866a
+run_uuid: d6b622f3909a4b7a9085183443b8866a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1605398713265
+status: 3
+tags: []
+user_id: carolina

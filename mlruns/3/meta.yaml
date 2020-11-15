@@ -1,0 +1,4 @@
+artifact_location: file:///home/carolina/Documents/Projeto-If697/mlruns/3
+experiment_id: '3'
+lifecycle_stage: active
+name: Prediction using decision tree
